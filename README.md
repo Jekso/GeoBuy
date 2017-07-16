@@ -1,2 +1,2 @@
 # GeoBuy
-just a test form many APIs together 
+just a test from many APIs together 
